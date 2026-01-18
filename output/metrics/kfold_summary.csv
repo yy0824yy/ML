@@ -1,0 +1,21 @@
+Fold,Best_Val_Loss,Experiment
+1,0.2532314956188202,Baseline (Raw + UNet)
+2,0.2351634800434112,Baseline (Raw + UNet)
+3,0.3130170106887817,Baseline (Raw + UNet)
+4,0.2571665942668915,Baseline (Raw + UNet)
+5,0.2595947086811065,Baseline (Raw + UNet)
+1,0.244300901889801,Enhanced + UNet
+2,0.2271685600280761,Enhanced + UNet
+3,0.2912080585956573,Enhanced + UNet
+4,0.2372022271156311,Enhanced + UNet
+5,0.2634348273277282,Enhanced + UNet
+1,0.2282251417636871,Enhanced + AttentionUNet
+2,0.2206272035837173,Enhanced + AttentionUNet
+3,0.2591150999069214,Enhanced + AttentionUNet
+4,0.2529200613498688,Enhanced + AttentionUNet
+5,0.2326161861419677,Enhanced + AttentionUNet
+1,0.22187930345535278,Enhanced + TransUNet
+2,0.26082614064216614,Enhanced + TransUNet
+3,0.26196131110191345,Enhanced + TransUNet
+4,0.2624560594558716,Enhanced + TransUNet
+5,0.236267551779747,Enhanced + TransUNet
