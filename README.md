@@ -89,14 +89,7 @@ ML/
 │   │   └── failure_analysis/            # 失败案例深度分析
 │   └── test_predictions/       # 测试集预测掩码（80张）
 │
-├── report/                      # LaTeX学术报告
-│   ├── main.tex                # 完整报告（14-16页）
-│   ├── figures/                # 报告图片（8张）
-│   └── README.md               # Overleaf编译说明
-│
 ├── requirements.txt             # Python依赖包
-├── run_full_pipeline.sh        # 完整流程脚本
-├── analyze_results.py          # 快速结果分析脚本
 └── README.md                   # 本文件
 ```
 
@@ -110,7 +103,7 @@ ML/
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/retinal-vessel-segmentation.git
+git clone https://github.com/yy0824yy/ML.git
 cd retinal-vessel-segmentation
 
 # 安装依赖
