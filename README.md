@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **核心发现**: 简单的数据增强（CLAHE）带来**140%性能提升**，而复杂模型架构（Attention、Transformer）仅贡献**<1%边际收益**
+> 核心发现: 简单的数据增强（CLAHE）带来140%性能提升，而复杂模型架构（Attention、Transformer）仅贡献<1%边际收益
 
 ##  项目简介
 
